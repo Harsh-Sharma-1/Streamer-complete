@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "ramesh",
+      "description": "ramesh ki stream",
+      "userId": "115349164943026385739",
+      "id": 1
+    },
+    {
+      "title": "suresh",
+      "description": "suresh ki stream",
+      "userId": "115349164943026385739",
+      "id": 2
+    },
+    {
+      "title": "rajesh",
+      "description": "rajesh ki stream",
+      "userId": "115349164943026385739",
+      "id": 3
+    },
+    {
+      "title": "mahesh",
+      "description": "mahesh ki stream",
+      "userId": "113764447490129038276",
+      "id": 4
+    }
+  ]
+}
